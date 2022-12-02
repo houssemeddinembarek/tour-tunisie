@@ -1,0 +1,20 @@
+{
+  "name": "nodejstoursdetunisie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "DWave",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.0.1",
+    "mongoose": "^5.13.3",
+    "multer": "^1.4.3",
+    "multer-gridfs-storage": "^5.0.1",
+    "nodemon": "^2.0.12"
+  }
+}
